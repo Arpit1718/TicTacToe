@@ -6,11 +6,11 @@ A simple console-based TicTacToe game implemented in Java.
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/Arpit1718/Ecommerce.git
+    git clone https://github.com/Arpit1718/TicTacToe.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Ecommerce
+    cd TicTacToe
     ```
 3. Compile the Java program:
     ```sh
